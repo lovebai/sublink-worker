@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <img src="public/favicon.png" alt="Sublink Worker" width="120" height="120"/>
 
   <h1><b>Sublink Worker</b></h1>
